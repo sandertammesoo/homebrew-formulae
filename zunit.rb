@@ -2,8 +2,8 @@ class Zunit < Formula
   desc "A fork/adaption of a powerful testing framework for ZSH projects"
   homepage "https://zunit.xyz"
   url "https://github.com/sandertammesoo/zunit.git",
-      tag:      "v0.11.0"
-  sha256 "6b8daf52143b0d4666d7e8c97f93f0fd511d345f966e7a47a6779ed01cedf112"
+      tag:      "v0.11.1"
+  sha256 "a08682d415f30e3e4c3bffb4ab24a9a2966328168a622d2f6d14a8ffa7186439"
   head "https://github.com/sandertammesoo/zunit.git", branch: "develop" # the default is "master"
   license "MIT"
 
